@@ -17,3 +17,5 @@ A ***O(lgn)*** algorithm based on tree structure would be better than ***O(n)***
 ## Defect
 If words in the query has no same words(totally different) with the corresponding concepts, TF-IDF can hard to find it in the candidates.
 
+## How to run?
+Run TF-IDF.py is just ok.
